@@ -10,7 +10,7 @@ import requests
 import json
 
 # 设置您的 OpenAI API 密钥
-api_key = "sk-proj-tXsJfPWYz4cI3CLAObzIT3BlbkFJ9POG15DPqqkeEFaNpYR3"
+api_key = ""API KEY""
 
 
 # 定义请求的 URL
