@@ -4,7 +4,7 @@
 
 import openai
 
-openai.api_key = "sk-proj-tXsJfPWYz4cI3CLAObzIT3BlbkFJ9POG15DPqqkeEFaNpYR3"
+openai.api_key = ""API KEY""
 
 def translate_chunks_to_chinese(chunks):
     translated_chunks = []
