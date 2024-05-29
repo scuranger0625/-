@@ -8,7 +8,7 @@
 import openai
 
 # 设置 OpenAI API 密钥
-openai.api_key = "sk-proj-tXsJfPWYz4cI3CLAObzIT3BlbkFJ9POG15DPqqkeEFaNpYR3"
+openai.api_key = ""API KEY""
 
 # 定义要翻译的文本
 input_text = "Translate the following text into Chinese:\n\nHello, how are you?"
