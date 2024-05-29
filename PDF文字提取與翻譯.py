@@ -10,7 +10,7 @@ from PyPDF2 import PdfReader
 import os
 
 # 设置 OpenAI API 密钥
-openai.api_key = "sk-proj-tXsJfPWYz4cI3CLAObzIT3BlbkFJ9POG15DPqqkeEFaNpYR3"
+openai.api_key = ""API KEY""
 
 # 读取 PDF 文件
 def read_pdf(file_path):
