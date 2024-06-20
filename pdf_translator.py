@@ -9,7 +9,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QLabel, QFileDia
 from PyQt5.QtGui import QIcon
 
 # 設置 OpenAI API 金鑰
-openai.api_key = "sk-proj-D0uDoH2cqkIl0XMijpK8T3BlbkFJV7SdJAY5aM45hdX2LGrY"
+openai.api_key = "API KEY"
 
 def get_escaped_path(raw_path):
     """
